@@ -6,7 +6,7 @@
 * [Setup](#setup in windows)
 
 ## General info
-This project is a simple python script for scrapping twitter accounts. The script works by the user providing a twitter account name,it then scraps ones' tweets and displays in then starting with the latest tweet. The script runs in linux and windows machine with python 3 installed on them.
+This project is a simple python script for scrapping twitter accounts. The script works by the user providing a twitter account name,it then scraps ones' tweets and displays them starting with the latest tweet. The script runs in linux and windows machine with python 3 installed on them.
 	
 ## Technologies
 Project is created with:
